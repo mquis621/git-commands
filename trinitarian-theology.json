@@ -1,0 +1,131 @@
+{
+  "Godhead": {
+    "Father": {
+      "name": "Yahweh",
+      "titles": ["Creator", "Father", "Lord of Hosts"],
+      "attributes": {
+        "eternal": true,
+        "omnipotent": true,
+        "omniscient": true,
+        "omnipresent": true
+      },
+      "scriptureReferences": [
+        "Genesis 1:1",
+        "Isaiah 64:8",
+        "Matthew 6:9"
+      ],
+      "rolesInSalvation": ["Initiator of the Plan", "Sender of the Son"],
+      "symbols": ["Throne", "Cloud", "Light"],
+      "manifestations": ["Burning Bush", "Voice from Heaven", "Pillar of Cloud"]
+    },
+    "Son": {
+      "name": "Jesus Christ",
+      "titles": ["Messiah", "Lamb of God", "King of Kings", "Son of Man"],
+      "attributes": {
+        "eternal": true,
+        "incarnate": true,
+        "sinless": true,
+        "resurrected": true
+      },
+      "scriptureReferences": [
+        "John 1:1-14",
+        "Luke 2:11",
+        "Philippians 2:5-11"
+      ],
+      "rolesInSalvation": ["Redeemer", "Mediator", "High Priest"],
+      "symbols": ["Cross", "Bread", "Lamb"],
+      "manifestations": ["Incarnation", "Transfiguration", "Resurrection"]
+    },
+    "HolySpirit": {
+      "name": "Holy Spirit",
+      "titles": ["Comforter", "Spirit of Truth", "Helper"],
+      "attributes": {
+        "eternal": true,
+        "indwelling": true,
+        "guide": true,
+        "intercessor": true
+      },
+      "scriptureReferences": [
+        "Acts 2:1-4",
+        "John 14:26",
+        "Romans 8:26"
+      ],
+      "rolesInSalvation": ["Convicts of Sin", "Sanctifier", "Empowerer"],
+      "symbols": ["Dove", "Wind", "Fire", "Oil"],
+      "manifestations": ["Pentecost", "Speaking in Tongues", "Prophecy"]
+    }
+  },
+  "Unity": {
+    "doctrine": "Trinity",
+    "description": "Three persons in one essence — co-equal, co-eternal, consubstantial.",
+    "scriptureReferences": [
+      "Matthew 28:19",
+      "2 Corinthians 13:14",
+      "John 14:16-17"
+    ]
+  },
+  "Worship": {
+    "prayers": [
+      {
+        "title": "The Lord's Prayer",
+        "addressedTo": "Father",
+        "scripture": "Matthew 6:9-13"
+      },
+      {
+        "title": "High Priestly Prayer",
+        "addressedTo": "Father (by the Son)",
+        "scripture": "John 17"
+      },
+      {
+        "title": "Prayer for the Spirit",
+        "addressedTo": "Holy Spirit",
+        "type": "Invocation",
+        "examples": ["Veni Sancte Spiritus", "Come Holy Spirit"]
+      }
+    ],
+    "worshipForms": ["Praise", "Prayer", "Sacraments", "Meditation", "Service"],
+    "instrumentsUsed": ["Harp", "Lyre", "Trumpet", "Voice"]
+  },
+  "Prophecies": {
+    "aboutSon": [
+      {
+        "prophet": "Isaiah",
+        "reference": "Isaiah 9:6",
+        "text": "For unto us a child is born, unto us a son is given..."
+      },
+      {
+        "prophet": "Micah",
+        "reference": "Micah 5:2",
+        "text": "Out of you, Bethlehem, will come a ruler..."
+      }
+    ],
+    "aboutSpirit": [
+      {
+        "prophet": "Joel",
+        "reference": "Joel 2:28",
+        "text": "I will pour out my Spirit on all people..."
+      }
+    ]
+  },
+  "Relationships": {
+    "FatherToSon": {
+      "type": "Divine Fatherhood",
+      "expression": "Beloved Son in whom I am well pleased"
+    },
+    "SonToSpirit": {
+      "type": "Sender",
+      "expression": "I will send the Comforter"
+    },
+    "SpiritToChurch": {
+      "type": "Indwelling Presence",
+      "expression": "Your body is a temple of the Holy Spirit"
+    }
+  },
+  "Metadata": {
+    "version": "1.0",
+    "theme": "Trinitarian Theology",
+    "source": "Custom Generated JSON for Testing",
+    "createdBy": "ChatGPT",
+    "createdOn": "2025-08-10"
+  }
+}
